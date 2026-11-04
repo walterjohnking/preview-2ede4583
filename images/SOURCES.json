@@ -1,0 +1,89 @@
+{
+  "hero-cakes.webp": {
+    "url": "@after_layers/p/Dec2QpfTKTW",
+    "instagram_post": "@after_layers/p/Dec2QpfTKTW",
+    "note": "Two signature cakes on pedestals \u2014 lavender blueberry crown and raspberry cream. IG @after_layers/p/Dec2QpfTKTW",
+    "bytes": 49994,
+    "pixels": "819x819",
+    "license": "Official @after_layers Instagram post, used for CrownCraft pitch mock-up"
+  },
+  "crown-cake.webp": {
+    "url": "@after_layers/p/Dec2Qs3z8dW",
+    "instagram_post": "@after_layers/p/Dec2Qs3z8dW",
+    "note": "Lavender blueberry crown cake above pastry case. IG @after_layers/p/Dec2Qs3z8dW",
+    "bytes": 155080,
+    "pixels": "1800x1800",
+    "license": "Official @after_layers Instagram post, used for CrownCraft pitch mock-up"
+  },
+  "raspberry-cake.webp": {
+    "url": "@after_layers/p/Dec2QuWzcOn",
+    "instagram_post": "@after_layers/p/Dec2QuWzcOn",
+    "note": "Raspberry cream cake with silver leaf. IG @after_layers/p/Dec2QuWzcOn",
+    "bytes": 441852,
+    "pixels": "1600x1600",
+    "license": "Official @after_layers Instagram post, used for CrownCraft pitch mock-up"
+  },
+  "mango-cake.webp": {
+    "url": "@after_layers/p/DejkYkuTTOn",
+    "instagram_post": "@after_layers/p/DejkYkuTTOn",
+    "note": "Pandan coconut chiffon with fresh mango. IG @after_layers/p/DejkYkuTTOn",
+    "bytes": 135048,
+    "pixels": "1600x1600",
+    "license": "Official @after_layers Instagram post, used for CrownCraft pitch mock-up"
+  },
+  "berry-cake.webp": {
+    "instagram_post": "@after_layers/p/Dec2QuWzcOn",
+    "note": "Gallery replacement \u2014 tight crop of raspberry cream cake (same post as raspberry-cake.webp). Replaced weak low-res berry promo.",
+    "bytes": 228718,
+    "pixels": "1400x1400",
+    "license": "Official @after_layers Instagram"
+  },
+  "berry-cake-2.webp": {
+    "instagram_post": "@after_layers/p/Dec2Qs3z8dW",
+    "note": "Gallery replacement \u2014 crown blueberry detail crop (same post as crown-cake.webp). Replaced weak low-res berry promo.",
+    "bytes": 128816,
+    "pixels": "1600x1600",
+    "license": "Official @after_layers Instagram"
+  },
+  "matcha-boo.webp": {
+    "url": "@after_layers/p/DfBb3LWk94O",
+    "instagram_post": "@after_layers/p/DfBb3LWk94O",
+    "note": "Iced matcha with After Layers character disk. IG @after_layers/p/DfBb3LWk94O",
+    "bytes": 32050,
+    "pixels": "720x720",
+    "license": "Official @after_layers Instagram post, used for CrownCraft pitch mock-up"
+  },
+  "halloween-drink.webp": {
+    "url": "@after_layers/p/DfBb2Z5TBVR",
+    "instagram_post": "@after_layers/p/DfBb2Z5TBVR",
+    "note": "Salted brown sugar cream drink in BOO cup. IG @after_layers/p/DfBb2Z5TBVR",
+    "bytes": 31828,
+    "pixels": "896x646",
+    "license": "Official @after_layers Instagram post, used for CrownCraft pitch mock-up"
+  },
+  "favicon.svg": {
+    "note": "Simple cake mark favicon (generated mark, not from IG)"
+  },
+  "hero-cakes-2.webp": {
+    "instagram_post": "@after_layers/p/Dec2yx5k2yQ",
+    "note": "Two signature cakes on pedestals \u2014 lavender blueberry gold crown and raspberry cream. IG @after_layers/p/Dec2yx5k2yQ",
+    "bytes": 49994,
+    "pixels": "819x819",
+    "license": "Official @after_layers Instagram post, used for CrownCraft pitch mock-up"
+  },
+  "hero-lead.webp": {
+    "instagram_post": "@after_layers/p/Dec2Qs3z8dW",
+    "note": "Hero lead \u2014 lavender blueberry crown cake above pastry case (same asset as crown-cake.webp). IG @after_layers/p/Dec2Qs3z8dW",
+    "bytes": 155080,
+    "pixels": "1800x1800",
+    "license": "Official @after_layers Instagram post, used for CrownCraft pitch mock-up",
+    "pricing_source": "Menu prices verified from https://afterlayers.my.canva.site/light-beige-sleek-and-simple-blogger-personal-website"
+  },
+  "cake-photo-map": {
+    "berrylicious": "raspberry-cake.webp (verifiable berry/raspberry cake)",
+    "chiffon": "mango-cake.webp (verifiable chiffon)",
+    "lemonlicious": "hero-lead.webp FALLBACK \u2014 no verifiable Lemonlicious product photo in IG set",
+    "guilty": "hero-cakes.webp FALLBACK \u2014 no verifiable Guilty Layers (chocolate) product photo in IG set",
+    "snowball": "crown-cake.webp FALLBACK \u2014 no verifiable Snowball product photo; used best blueberry crown general shot"
+  }
+}
